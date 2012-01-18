@@ -2,7 +2,8 @@ This bolt hobbing jig should allow for either a 8mm, or 5/16" bolt (or rod with 
 
 It's a derivative of Fred Latesta's original work hosted here: http://www.thingiverse.com/thing:15210
 
-Instructions Print one Ratchet gear
+___Instructions___
+Print one Ratchet gear
 Print one Block
 
 * Place a bolt into the ratchet gear so that the bolt head sits flush with the gear. 
