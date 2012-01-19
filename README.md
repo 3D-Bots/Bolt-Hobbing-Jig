@@ -1,9 +1,18 @@
+Description
+===========
 This bolt hobbing jig should allow for either a 8mm, or 5/16" bolt (or rod with nut) to be indexed to 19 positions. 
 
-It's a derivative of Fred Latesta's original work hosted here: http://www.thingiverse.com/thing:15210
+License
+=======
+It's a derivative of Fred Latesta's original work. 
+<div xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" about="http://www.thingiverse.com/thing:15210"><span property="dct:title">Indexed Bolt Hobbing Jig for rotary tool</span> (<a rel="cc:attributionURL" property="cc:attributionName" href="http://www.thingiverse.com/thing:15210">FredLatesta</a>) / <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></div>
 
-___Instructions___
+ 
+Instructions
+============
+
 Print one Ratchet gear
+
 Print one Block
 
 * Place a bolt into the ratchet gear so that the bolt head sits flush with the gear. 
