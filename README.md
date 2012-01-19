@@ -11,9 +11,7 @@ It's a derivative of Fred Latesta's original work.
 Instructions
 ============
 
-Print one Ratchet gear
-
-Print one Block
+In general all you need to do is load up hobbing_jig_plate.stl and print that one time. If you prefer to do two prints then print ratchet_gear_4.stl followed by block_4.stl
 
 * Place a bolt into the ratchet gear so that the bolt head sits flush with the gear. 
 * Insert the bolt into the jig block.
